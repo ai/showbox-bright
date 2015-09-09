@@ -1,0 +1,22 @@
+{
+  "name": "showbox-bright",
+  "version": "0.0.0",
+  "description": "Shower Bright theme for ShowBox",
+  "keywords": [
+    "showbox-theme",
+    "shower"
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "ai/showbox-bright",
+  "dependencies": {
+    "showbox-shower": "ai/showbox-shower",
+    "shower-bright":  "1.0.7"
+  },
+  "devDependencies": {
+    "eslint": "1.3.1"
+  },
+  "scripts": {
+    "test": "eslint *.js"
+  }
+}
