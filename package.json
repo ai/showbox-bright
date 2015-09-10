@@ -11,7 +11,7 @@
   "repository": "ai/showbox-bright",
   "dependencies": {
     "showbox-shower": "ai/showbox-shower",
-    "shower-bright":  "1.0.7"
+    "shower-bright":  "~1.0.11"
   },
   "devDependencies": {
     "eslint": "1.3.1"
