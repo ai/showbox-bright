@@ -13,7 +13,7 @@ module.exports = function (talk) {
                 if ( err ) return reject(err);
                 data.css += syntaxCss;
                 resolve(data);
-            })
+            });
         });
     });
 };
