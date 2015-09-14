@@ -1,3 +1,9 @@
 .hljs-string, .hljs-keyword, .hljs-attribute {
     color: #52a2df;
 }
+
+.slide mark.important {
+    .hljs-string, .hljs-keyword, .hljs-attribute {
+        color: white;
+    }
+}
